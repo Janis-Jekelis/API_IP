@@ -5,8 +5,8 @@
             "App\\": "app/"
         }
     },
-
     "require": {
-        "guzzlehttp/guzzle": "^7.8"
+        "ip2location/ip2location-php": "^8.3",
+        "pragmarx/countries": "^0.8.2"
     }
 }
